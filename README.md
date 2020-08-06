@@ -1,2 +1,2 @@
 # pascal-interpreter
-Interpreter for Pascal Programming Language developed in Python
+An elementary Interpreter for Pascal Programming Language developed in Python
