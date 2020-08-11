@@ -1,4 +1,4 @@
-# Pascal-Interpreter
+# Pascal-Interpreter-flask
 An elementary Interpreter for Pascal Programming Language developed in Python.
 
 ## Core Features
